@@ -1,0 +1,31 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.coding.yanky",
+    "lazyvim.plugins.extras.dap.core",
+    "lazyvim.plugins.extras.dap.nlua",
+    "lazyvim.plugins.extras.editor.harpoon2",
+    "lazyvim.plugins.extras.editor.leap",
+    "lazyvim.plugins.extras.formatting.black",
+    "lazyvim.plugins.extras.formatting.prettier",
+    "lazyvim.plugins.extras.lang.haskell",
+    "lazyvim.plugins.extras.lang.json",
+    "lazyvim.plugins.extras.lang.markdown",
+    "lazyvim.plugins.extras.lazyrc",
+    "lazyvim.plugins.extras.test.core",
+    "rafi.plugins.extras.coding.align",
+    "rafi.plugins.extras.coding.cmp-git",
+    "rafi.plugins.extras.coding.editorconfig",
+    "rafi.plugins.extras.coding.native_snippets",
+    "rafi.plugins.extras.editor.anyjump",
+    "rafi.plugins.extras.git.fugitive",
+    "rafi.plugins.extras.lang.docker",
+    "rafi.plugins.extras.lang.go",
+    "rafi.plugins.extras.org.telekasten",
+    "rafi.plugins.extras.ui.alpha",
+    "rafi.plugins.extras.ui.goto-preview"
+  ],
+  "news": [
+
+  ],
+  "version": 3
+}

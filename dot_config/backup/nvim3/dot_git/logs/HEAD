@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 579c2b4daf8d7acb4c4543a7250ca34cff55520d Emil Skogsund <skogix@gmail.com> 1712302216 +0200	clone: from https://github.com/skogix/AstroNvim
+579c2b4daf8d7acb4c4543a7250ca34cff55520d 579c2b4daf8d7acb4c4543a7250ca34cff55520d Emil Skogsund <skogix@gmail.com> 1712353101 +0200	reset: moving to HEAD
+579c2b4daf8d7acb4c4543a7250ca34cff55520d 2d3a95b2ee0cac20e82ca1494a9c8bd18413e988 Emil Skogsund <skogix@gmail.com> 1712353106 +0200	pull: Fast-forward
+2d3a95b2ee0cac20e82ca1494a9c8bd18413e988 8033683c94dbc42c964ecebd5ef014b92ca2c848 Emil Skogsund <skogix@gmail.com> 1712354154 +0200	commit: remove lock.json
+8033683c94dbc42c964ecebd5ef014b92ca2c848 8033683c94dbc42c964ecebd5ef014b92ca2c848 Emil Skogsund <skogix@gmail.com> 1712389070 +0200	reset: moving to HEAD
+8033683c94dbc42c964ecebd5ef014b92ca2c848 2d3a95b2ee0cac20e82ca1494a9c8bd18413e988 Emil Skogsund <skogix@gmail.com> 1712389086 +0200	reset: moving to 2d3a95b
+2d3a95b2ee0cac20e82ca1494a9c8bd18413e988 7645b86841b6a4743af49f52649b6568084d45fe Emil Skogsund <skogix@gmail.com> 1712397379 +0200	commit: .

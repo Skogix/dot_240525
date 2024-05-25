@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled sorted 
+11e3f816d90bb547e3ebfd0310dcc9b83a3f86c2 refs/remotes/origin/basics
+3a5df4d34d1f8775d4caf08b65087e88c6d597ff refs/remotes/origin/bundle
+397da1f3cb12dfbb3045a94e6509309727a8452e refs/remotes/origin/config
+0fe2605c22e140b6fca2f65ce15f1f29a64dce6f refs/remotes/origin/dvorak
+afd354280655b627e99b8985d9a7e4f1c04291f5 refs/remotes/origin/earthy
+498122bf09b29e1d3166b0b8573df358a14bc3c6 refs/remotes/origin/engram
+1a1c2631e47860a6b7190a63a8b9603f03c29107 refs/remotes/origin/master
+1d4a5867f24cd9ec7c93b2bc00bff935ec5fd38e refs/remotes/origin/origin
+84c6923c0d47c86da48a5589ceef433ff29c173b refs/remotes/origin/qwerty
+5b009cd5cebd098dfb2c08be13dc263434081eed refs/remotes/origin/spacey
+f3da3bf81668bbc7ce18dfde5e810f2f470cc714 refs/remotes/origin/tryout
+67491d79bfcddc5392bc716a9ee8860454add0b8 refs/remotes/origin/unbundle

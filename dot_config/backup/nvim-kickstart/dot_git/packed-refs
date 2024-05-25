@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+dc9eb06f47db0baaa82ca88a43383f2de847226c refs/remotes/origin/master
+d55dc85cc678b1cf5abb92533970e27317712e7e refs/remotes/origin/pr-gitsigns-keys
+5a954623844f333d515227306ffb5af54b44ae25 refs/remotes/origin/pr-gitsigns-keys2
+d17289318a358cfebf62f6c6a170b9833f190f30 refs/remotes/origin/rewrite-2024
+4e7e6642a6a5b76c0dbb0e86748fcb12b4c95012 refs/remotes/origin/stable
+93fde0556e82ead2a5392ccb678359fa59437b98 refs/remotes/origin/upstream

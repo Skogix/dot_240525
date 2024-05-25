@@ -1,0 +1,7 @@
+{
+    "diagnostics.disable": [
+        "param-type-mismatch",
+        "unused-local",
+        "undefined-field"
+    ]
+}

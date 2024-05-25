@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 0fd9cefa9b01cdb5cd89b394ed5b54b3c4f5eaf1 Emil Skogsund <skogix@gmail.com> 1669645856 +0100	clone: from https://github.com/LunarVim/Neovim-from-scratch
+0fd9cefa9b01cdb5cd89b394ed5b54b3c4f5eaf1 6260c377370a7fa9ab5d9bade00380b77d3367d4 Emil Skogsund <skogix@gmail.com> 1669645877 +0100	checkout: moving from master to 01-options
+6260c377370a7fa9ab5d9bade00380b77d3367d4 e1ac27496fccd2e0accb79c6ac2097865feff14b Emil Skogsund <skogix@gmail.com> 1669645917 +0100	checkout: moving from 01-options to 02-keymaps
+e1ac27496fccd2e0accb79c6ac2097865feff14b 4e038120bf179d7220638ad3e17bf4974ed50fff Emil Skogsund <skogix@gmail.com> 1669645935 +0100	checkout: moving from 02-keymaps to 03-plugins
+4e038120bf179d7220638ad3e17bf4974ed50fff 68de5d4fab1cd11d74829947a2809c1899280dea Emil Skogsund <skogix@gmail.com> 1669645978 +0100	checkout: moving from 03-plugins to 04-colorscheme
+68de5d4fab1cd11d74829947a2809c1899280dea 68de5d4fab1cd11d74829947a2809c1899280dea Emil Skogsund <skogix@gmail.com> 1669646074 +0100	reset: moving to HEAD
+68de5d4fab1cd11d74829947a2809c1899280dea 16e9e3d0597ca50fa5f6764708a5e8fdada611fb Emil Skogsund <skogix@gmail.com> 1669646085 +0100	checkout: moving from 04-colorscheme to 05-completion
+16e9e3d0597ca50fa5f6764708a5e8fdada611fb 5e24735678bc29f3a10e534c2c3ef18f6f57b4f5 Emil Skogsund <skogix@gmail.com> 1669646130 +0100	checkout: moving from 05-completion to 06-LSP

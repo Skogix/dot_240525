@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 53fe8d1f695142a4193b4d145b231c12c642fd77 Emil Skogsund <skogix@gmail.com> 1696851175 +0200	commit (initial): first commit
+53fe8d1f695142a4193b4d145b231c12c642fd77 53fe8d1f695142a4193b4d145b231c12c642fd77 Emil Skogsund <skogix@gmail.com> 1696851175 +0200	Branch: renamed refs/heads/master to refs/heads/master
+53fe8d1f695142a4193b4d145b231c12c642fd77 1d46d566c01e116e6e12e05ac9dc1c5112c61178 Emil Skogsund <skogix@gmail.com> 1696851214 +0200	commit: init
+1d46d566c01e116e6e12e05ac9dc1c5112c61178 52c0e5cbeae5d823aa872ef11adf00b60d46b20e Emil Skogsund <skogix@gmail.com> 1696853807 +0200	commit: .
+52c0e5cbeae5d823aa872ef11adf00b60d46b20e 1d46d566c01e116e6e12e05ac9dc1c5112c61178 Emil Skogsund <skogix@gmail.com> 1696853831 +0200	rebase (finish): refs/heads/master onto 1d46d566c01e116e6e12e05ac9dc1c5112c61178
+1d46d566c01e116e6e12e05ac9dc1c5112c61178 b445e33c799a0a31850db8ebb8496609eee27fa2 Emil Skogsund <skogix@gmail.com> 1696855057 +0200	commit: gruvbox

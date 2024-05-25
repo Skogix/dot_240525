@@ -1,0 +1,12 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/skogix/.config/nvim
+- /home/skogix/git/languages
+- /home/skogix/git/SParse
+- /home/skogix/dot
+startuppopupversion: 5
+customcommandshistory:
+- qa!
+- q
+hidecommandlog: false
+ignorewhitespaceindiffview: false
